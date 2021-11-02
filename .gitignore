@@ -1,0 +1,5 @@
+.idea/
+db-57/*
+db-80/*
+!db-57/.gitkeep
+!db-80/.gitkeep
